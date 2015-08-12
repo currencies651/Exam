@@ -1,0 +1,9 @@
+第一题
+mvn clean
+mvn compile 
+mvn mvn exec:java -Dexec.mainClass="com.hand.Exam20150812.Exam1"
+
+第二题
+mvn clean
+mvn compile 
+mvn mvn exec:java -Dexec.mainClass="com.hand.Exam20150812.Exam2"
